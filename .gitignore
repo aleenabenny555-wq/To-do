@@ -1,0 +1,13 @@
+# React / Node
+node_modules/
+build/
+npm-debug.log
+.env
+
+# Django / Python
+__pycache__/
+*.pyc
+venv/
+env/
+db.sqlite3
+media/
